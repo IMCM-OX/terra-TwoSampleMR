@@ -1,6 +1,6 @@
 FROM mrcieu/twosamplemr:0.5.7
 
-LABEL org.opencontainers.image.source=https://github.com/IMCM-OX/terra-TwoSampleMR-wf1
+LABEL org.opencontainers.image.source=https://github.com/anand-imcm/terra-TwoSampleMR-wf1
 LABEL org.opencontainers.image.description="An image containing tools and packages for the two sample MR analysis."
 
 RUN apt-get update --allow-releaseinfo-change \

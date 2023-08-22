@@ -17,7 +17,7 @@ import "./tasks/generatePlot.wdl" as plt
 workflow main {
 
     String pipeline_version = "1.0.0"
-    String container_src = "ghcr.io/imcm-ox/twosamplemr:~{pipeline_version}"
+    String container_src = "ghcr.io/anand-imcm/terra-twosamplemr-wf1:~{pipeline_version}"
 
     input {
         File exposure_summary_statistics
