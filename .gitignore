@@ -1,0 +1,9 @@
+data/
+notes-comments.txt
+cromwell-workflow-logs/
+cromwell-executions/
+*.rds
+*.dot
+*.png
+*.json
+*.sh
