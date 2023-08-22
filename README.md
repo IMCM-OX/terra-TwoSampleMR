@@ -1,1 +1,1 @@
-# terra-TwoSampleMR
+# terra-TwoSampleMR-wf1
