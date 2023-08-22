@@ -2,8 +2,6 @@ version: 1.2
 workflows:
   - subclass: WDL
     primaryDescriptorPath: /workflows/main.wdl
-    testParameterFiles:
-      - /example/inputs.json
     readMePath: /README.md
     authors:
       - name: Anand Maurya
