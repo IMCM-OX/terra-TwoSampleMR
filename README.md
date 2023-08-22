@@ -1,5 +1,11 @@
 # Two Sample MR workflow for Terra.bio
 
+Import the workflow to your Terra workspace using the link below.
+
+- [Dockstore](https://dockstore.org/workflows/github.com/anand-imcm/terra-TwoSampleMR-wf1:main?tab=info)
+
+Locate the 'Launch with' widget at the top right of the Dockstore workflow page, and select the 'Terra' platform option. 
+
 ## About
 
 A WDL-based workflow that utilizes the R package "TwoSampleMR" to generate single SNP and multi SNP forest plots. This workflow is designed to facilitate Mendelian randomization analysis using [TwoSampleMR](https://mrcieu.github.io/TwoSampleMR/) package and visualize the results in the form of forest plots.
