@@ -47,8 +47,7 @@ In this step, the necessary input data for the analysis is prepared. This may in
 
 - Docker images
   - debian:stable-20230502-slim
-  - mrcieu/twosamplemr:0.5.6
-  - ghcr.io/anand-imcm/vis:v1.0
+  - [ghcr.io/anand-imcm/terra-twosamplemr-wf1](ghcr.io/anand-imcm/terra-twosamplemr-wf1) (base image: [mrcieu/twosamplemr:0.5.7](https://hub.docker.com/r/mrcieu/twosamplemr))
 - R packages
   - littler
   - optparse
