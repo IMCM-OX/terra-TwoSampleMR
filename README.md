@@ -39,9 +39,11 @@ In this step, the necessary input data for the analysis is prepared. This may in
 
 ## Output
 
-- single SNP joined plot [pdf]
-- multi SNP joined plot [pdf]
-- rds objects for downstream analysis
+- single SNP joined plot [.pdf]
+- multi SNP joined plot [.pdf]
+- single SNP table [.txt]
+- multi SNP table [.txt]
+- R objects for downstream analysis [.rds]
 
 ## Components
 
